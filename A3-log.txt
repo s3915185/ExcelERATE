@@ -1,0 +1,3915 @@
++84975481002
+Got to before for loop
+In loop 0
+Person Account : 3000116314865F1004A : Phạm Mỹ Linh
+In loop 1
+Person Account : 300011586855956ECB8 : Đinh Hùng Anh
+In loop 2
+Person Account : 340006202117ED2EB97 : Nguyễn Anh Tuấn
+In loop 3
+Person Account Soft Deleted : 300011586855956ECB8 : Đinh Hùng Anh
+Got here
+Went 1
+Went 1
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+IA000051839
+IA000031455
+Found right dealer
++84913153100
+Got to before for loop
+In loop 0
+Person Account Soft Deleted : 3000138126717DBF505 : Đinh Mạnh Tuấn
+In loop 1
+Person Account : 3000138126717DBF505 : Đinh Mạnh Tuấn
+In loop 2
+Person Account : 3000113187952E096BC : Dinh Manh Tuan
+Got here
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 1
+IA000031892
+IA000058647
++84987298888
+Got to before for loop
+In loop 0
+Person Account : 3000115937347DC70B6 : Chu Khánh Phúc
+In loop 1
+Person Account Soft Deleted : 3000115937347DC70B6 : Chu Khánh Phúc
+In loop 2
+Person Account : 300011597540658EFAD : Trần Đức Hiệp
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+IA000039957
++84938894567
+Got to before for loop
+In loop 0
+Person Account : 300011587312BCEAF3A : Nguyễn Thị Mỹ Hạnh
+In loop 1
+Company : 3000141772864D5DEE4 : Công ty TNHH tm & xnk Nhất Lâm
+In loop 2
+Person Account : 3000140575528DA607B : Nguyễn Thị Hồng Hạnh
+Got here
+Went 1
+Went 1
+Went 1
++84868924980
+Got to before for loop
+In loop 0
+Person Account : 300011587397619D49A : Nguyễn Văn Dương
+In loop 1
+Person Account : 300011579949BD12104 : Dương
+Got here
+Went 1
+Went 1
++84932228777
+Got to before for loop
+In loop 0
+Person Account : 3000115879061C64D75 : Cao Thanh Bình
+Got here
+Went 1
++84962602366
+Got to before for loop
+In loop 0
+Person Account : 300011582999D6AB7EF : Nguyễn Ngọc Quỳnh
+In loop 1
+Person Account : 30001158799751F39D2 : Phạm Văn Tú
+Got here
+Went 1
+Went 1
++84979899916
+Got to before for loop
+In loop 0
+Company : 3000117242843000E00 : Bệnh Viện Quốc Tế Hoa Kỳ
+In loop 1
+Person Account : 3000115882368DF06FD : Nguyễn Thị Giáng Hương
+Got here
+Went 1
+Went 1
++84914876696
+Got to before for loop
+In loop 0
+Person Account : 30001158830101FF025 : Mai Trung Hiếu
+In loop 1
+Person Account Soft Deleted : 30001158830101FF025 : Mai Trung Hiếu
+In loop 2
+Person Account Soft Deleted : 30001158830101FF025 : Mai Trung Hiếu
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
++84904584202
+Got to before for loop
+In loop 0
+Person Account Soft Deleted : 300011588337672A42A : Lê Thanh Hải
+In loop 1
+Person Account : 300011588337672A42A : Lê Thanh Hải
+In loop 2
+Person Account : 3000116951056E21F02 : Nguyễn Thanh Hải
+Got here
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 1
+IA000033209
++84967338168
+Got to before for loop
+In loop 0
+Company : 300011724278CEE4F61 : Công Ty Tnhh Xây Dựng Và Thương Mại Phùng Minh
+In loop 1
+Person Account : 30001158530977ECBD7 : Phùng Gia Minh
+Got here
+Went 1
+Went 1
++84902027878
+Got to before for loop
+In loop 0
+Person Account : 3000115884935C0BD14 : Trịnh Quân Huấn
+Got here
+Went 1
++84912556636
+Got to before for loop
+In loop 0
+Person Account Soft Deleted : 300011588506225D4EE : Nguyễn Thanh Chuyền
+In loop 1
+Person Account : 300011588506225D4EE : Nguyễn Thanh Chuyền
+In loop 2
+Company : 3400046217978A52307 : Công ty TNHH Xuân Chuyền
+Got here
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 1
+IA000033429
+IA000058931
++84947522555
+Got to before for loop
+In loop 0
+Company : 300011724849204CA45 : Công Ty Tnhh Xây Dựng Mạnh Huyền
+In loop 1
+Person Account : 300011593574BCC8D84 : Nguyễn Tất Thanh
+Got here
+Went 1
+Went 1
++84904359999
+Got to before for loop
+In loop 0
+Person Account : 30001158915490C7FB1 : Lê Hồng Thanh
+Got here
+Went 1
++84984886699
+Got to before for loop
+In loop 0
+Person Account : 30001158915984E104C : Phạm Vũ Linh
+Got here
+Went 1
++84916773889
+Got to before for loop
+In loop 0
+Person Account : 300011589307AA94A91 : Nguyễn Văn Toàn
+Got here
+Went 1
++84969959666
+Got to before for loop
+In loop 0
+Person Account : 300011589410F290D17 : Phạm Thị Kim Hoa
+In loop 1
+Person Account : 3000115894214649CE7 : Vũ Ngọc Dũng
+In loop 2
+Person Account : 3400066767708A7A225 : Vũ Minh Hoàng
+Got here
+Went 1
+Went 1
+Went 1
++84974777140
+Got to before for loop
+In loop 0
+Person Account : 300011589725AD74FFE : Phạm Thị Thùy Linh
+Got here
+Went 1
++84964869719
+Got to before for loop
+In loop 0
+Person Account : 3000115909084D16FE1 : Đặng Hồng Sinh
+In loop 1
+Person Account Soft Deleted : 3000115909084D16FE1 : Đặng Hồng Sinh
+In loop 2
+Company : 3400074350722542DED : Công Ty TNHH Dịch Vụ Bảo Vệ Hùng Vương
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+IA000036474
+IA000035326
+Found right dealer
++84975989599
+Got to before for loop
+In loop 0
+Person Account Soft Deleted : 30001159021272D17E6 : Nguyễn Bá Hưởng
+In loop 1
+Person Account : 30001159021272D17E6 : Nguyễn Bá Hưởng
+In loop 2
+Person Account : 30001162795677E13C7 : Nguyễn Bá Hưng
+Got here
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 1
+IA000035632
+IA000055576
++84989689789
+Got to before for loop
+In loop 0
+Person Account : 300011590270D759014 : Bùi Đắc Huy
+In loop 1
+Person Account Soft Deleted : 300011590270D759014 : Chu Minh Ngọc
+In loop 2
+Company : 34000605602169E5264 : CÔNG TY CỔ PHẦN ĐẦU TƯ HẠ TẦNG ĐÔ THỊ MINH AN
+In loop 3
+Person Account : 30001433506173A92A0 : CHU KHÁNH VÂN
+In loop 4
+Person Account : 3400062248368E2A7AD : Chu Minh Ngọc
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 1
+Went 1
+IA000035707
+Found right dealer
++84987085959
+Got to before for loop
+In loop 0
+Person Account : 340004922411A4D83AD : Nguyễn Thị Thủy
+Got here
+Went 1
++84967113388
+Got to before for loop
+In loop 0
+Person Account Soft Deleted : 3000115905382A11BCA : Quách Minh Trọng
+In loop 1
+Person Account : 3000115905382A11BCA : Quách Minh Trọng
+Got here
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Detected Soft Deleted Account
+Went 1
+IA000047358
+IA000036028
++84915556659
+Got to before for loop
+In loop 0
+Company : 300011739876C82991A : Công ty CP XNK Hải Dương
+In loop 1
+Person Account : 300011590571B4F2583 : Vũ Văn Bồn
+In loop 2
+Company : 30001172450833F7DAF : Công Ty Cổ Phần Xnk Hải Dương
+In loop 3
+Person Account Soft Deleted : 300011590571B4F2583 : Vũ Văn Bồn
+In loop 4
+Person Account : 30001170166302A77B9 : Nguyễn Xuân Đức
+Got here
+Went 1
+Went 1
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+IA000036071
+IA000076955
++84989820588
+Got to before for loop
+In loop 0
+Person Account : 300011591587A14CA21 : Nguyễn Kim Sỹ
+Got here
+Went 1
++84972566969
+Got to before for loop
+In loop 0
+Person Account : 3000115914385FDC040 : Trần Minh Trang
+Got here
+Went 1
++84913010223
+Got to before for loop
+In loop 0
+Person Account : 3400078839894FA0E8E : Vương Bùi Việt
+In loop 1
+Company : 340007883975BFEEF70 : Công Ty CP Kiến trúc và xây dựng Bắc Sơn
+In loop 2
+Person Account : 3000115914650143CE6 : Vương Duy Vượng
+Got here
+Went 1
+Went 1
+Went 1
++84903218126
+Got to before for loop
+In loop 0
+Person Account : 300011591569253AAE7 : Nguyễn Xuân Quảng
+In loop 1
+Company : 340007713146F912BFC : Công ty CP Thiết bị Y tế Vĩnh Phúc
+Got here
+Went 1
+Went 1
++84988509999
+Got to before for loop
+In loop 0
+Person Account : 3000115917841CA6B8A : Nguyễn Đức Lực
+In loop 1
+Person Account : 300011685198E799F3B : Nguyễn Văn Lực
+In loop 2
+Person Account Soft Deleted : 3000115917841CA6B8A : Nguyễn Đức Lực
+In loop 3
+Person Account : 300011702488725EE69 : Nguyễn Đức Lực
+Got here
+Went 1
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+IA000037533
++84982610675
+Got to before for loop
+In loop 0
+Person Account : 30001159182300801D3 : Kiều Ngọc Thanh
+In loop 1
+Company : 300011724695F267F01 : Công ty Cổ phần Xây dựng Vilai Việt
+In loop 2
+Person Account Soft Deleted : 30001159182300801D3 : Kiều Ngọc Thanh
+In loop 3
+Person Account : 34000773463746C82CA : Kiều Ngọc Thanh
+Got here
+Went 1
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+IA000037580
++84989427724
+Got to before for loop
+In loop 0
+Person Account : 300011592007F6BA2FC : Vũ Minh Chanh
+Got here
+Went 1
++84977325745
+Got to before for loop
+In loop 0
+Person Account : 30001159204449A5C3B : Trần Trung Hà
+Got here
+Went 1
++84904003355
+Got to before for loop
+In loop 0
+Person Account : 30001159209398C4B8B : Đỗ Văn Thục
+In loop 1
+Person Account Soft Deleted : 30001159209398C4B8B : Đỗ Văn Thực
+In loop 2
+Person Account : 300014182212C3A4363 : Đỗ Văn Thực
+In loop 3
+Person Account : 30001159075111D320C : Thục
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 1
+IA000037921
++84919446668
+Got to before for loop
+In loop 0
+Person Account : 300011592197ADB3D5C : Nguyễn Thị Hà
+In loop 1
+Person Account Soft Deleted : 300011592197ADB3D5C : Nguyễn Thị Hà
+In loop 2
+Person Account : 30001165091673E97EC : Hằng
+In loop 3
+Person Account : 3000115808224C167DE : Nguyễn Tuấn Tùng
+In loop 4
+Person Account : 300011650753EC4F264 : Lê Thu Hà
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 1
+Went 1
+IA000038045
+IA000038841
++84932102999
+Got to before for loop
+In loop 0
+Person Account Soft Deleted : 300013897937D5D28EA : Phạm Thị Hải
+In loop 1
+Person Account : 300013897937D5D28EA : Phạm Thị Hải
+Got here
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Detected Soft Deleted Account
+Went 1
+IA000038148
+IA000051034
+Found right dealer
++84904681838
+Got to before for loop
+In loop 0
+Person Account : 300011592274A28ED1B : Nguyễn Đức Ngọc
+Got here
+Went 1
++84982574883
+Got to before for loop
+In loop 0
+Person Account : 30001158133032D054B : Nguyễn Thị Hương
+Got here
+Went 1
++84906207777
+Got to before for loop
+In loop 0
+Person Account Soft Deleted : 3000115927886B9674E : Phạm Minh Dũng
+In loop 1
+Person Account : 3000115927886B9674E : Phạm Minh Dũng
+Got here
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Detected Soft Deleted Account
+Went 1
+IA000038804
+IA000056810
++84913559758
+Got to before for loop
+In loop 0
+Person Account : 300011593324AB84276 : Nguyễn Minh Hải
+In loop 1
+Person Account Soft Deleted : 300011623132373647D : Nguyễn Minh Hải
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
++84888436531
+Got to before for loop
+In loop 0
+Person Account : 300011593667B4E1BF3 : Trịnh Xuân Hải
+In loop 1
+Person Account Soft Deleted : 300011593667B4E1BF3 : Trịnh Xuân Hải
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Detected Soft Deleted Account
+IA000039879
+IA000055006
++84916423929
+Got to before for loop
+In loop 0
+Company : 3000117249013CBF0EC : Công Ty Cổ Phần Đầu Tư Xây Dựng TVN
+In loop 1
+Person Account Soft Deleted : 300011593819FB04059 : Phạm Thị Thuỷ
+In loop 2
+Person Account : 300011593819FB04059 : Phạm Thị Thủy
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Detected Soft Deleted Account
+Went 1
+IA000040083
+Found right dealer
++84906210999
+Got to before for loop
+In loop 0
+Person Account : 300011593839AC8ED50 : Trần Thế Mạnh
+Got here
+Went 1
++84912532660
+Got to before for loop
+In loop 0
+Person Account : 3000115939563601683 : Lê Văn Khiều
+In loop 1
+Company : 340006397628557919B : Công ty CP Dịch vụ và Thương mại Xuân Khiều
+Got here
+Went 1
+Went 1
++84988844881
+Got to before for loop
+In loop 0
+Person Account : 30001159414913D433F : Đặng Thị Thùy Linh
+In loop 1
+Person Account : 300011701953EEDC041 : Trần Quốc Trường
+Got here
+Went 1
+Went 1
++84984029581
+Got to before for loop
+In loop 0
+Person Account : 3000115943543A821E5 : Nguyễn Thị Trang
+Got here
+Went 1
++84927412356
+Got to before for loop
+In loop 0
+Person Account : 3000115943553E3306E : Nguyễn Quang Phúc
+Got here
+Went 1
++84983227702
+Got to before for loop
+In loop 0
+Person Account Soft Deleted : 3000115943718387E4E : Dương Tiến Bách
+In loop 1
+Person Account : 3000115943718387E4E : Dương Tiến Bách
+In loop 2
+Person Account : 300011585425050EEFE : Bách
+Got here
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 1
+IA000040752
+Found right dealer
++84932893389
+Got to before for loop
+In loop 0
+Company : 300011724130ED53F47 : Công Ty Cp Vàng Bạc Đá Quý Doji
+In loop 1
+Company : 300011724982F0BFC5D : Công Ty CP Tập Đoàn Vàng Bạc Đá Qúy Doji
+In loop 2
+Person Account : 30001159462399F3E4E : Đỗ Minh Đức
+Got here
+Went 1
+Went 1
+Went 1
++84913006258
+Got to before for loop
+In loop 0
+Person Account : 3000115946628B97ED2 : Đỗ Minh Sang
+In loop 1
+Person Account : 340006297081073FDE0 : Đỗ Văn Sang
+Got here
+Went 1
+Went 1
++84357505102
+Got to before for loop
+In loop 0
+Person Account : 300011594684C6B3DF3 : Bùi Văn Hậu
+Got here
+Went 1
++84979045866
+Got to before for loop
+In loop 0
+Person Account : 3000146502864A68896 : Nguyễn Đình Vãng
+Got here
+Went 1
++84903260088
+Got to before for loop
+In loop 0
+Person Account : 30001159491320F1C42 : Phạm Trọng Hưng
+Got here
+Went 1
++84913214222
+Got to before for loop
+In loop 0
+Person Account : 30001159513244DE0AA : Vũ Đỗ Thành
+Got here
+Went 1
++84919515169
+Got to before for loop
+In loop 0
+Person Account : 3000154280241898B58 : Phạm Cao Hiệp
+In loop 1
+Person Account Soft Deleted : 300011595143EE520A4 : Phạm Cao Hiệp
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
++84903438783
+Got to before for loop
+In loop 0
+Person Account : 30001159518857D5047 : Đặng Hồng Thủy
+Got here
+Went 1
++84985044444
+Got to before for loop
+In loop 0
+Person Account : 30001159534027152B4 : Nguyễn Văn Định
+Got here
+Went 1
++84912048585
+Got to before for loop
+In loop 0
+Person Account : 3000111766419C8E09D : Đỗ Minh Thiện
+Got here
+Went 1
++84988280199
+Got to before for loop
+In loop 0
+Person Account : 3000116003351A7C939 : Nguyễn Thị Hạnh
+In loop 1
+Person Account : 300011595742796C0FF : Nguyễn Quốc Huy
+Got here
+Went 1
+Went 1
++84982091506
+Got to before for loop
+In loop 0
+Person Account : 3000115617254BDD547 : Trần Hồng Thủy
+In loop 1
+Person Account : 300013627870D8B176A : Nguyễn Tuấn Anh
+In loop 2
+Company : 300011717241F13D43E : Công Ty Cptm Dl & Hội Chợ Triển Lãm Quốc T
+In loop 3
+Company : 300011717166673C261 : CTy CP PT Kinh Tế Hỗ Trợ Tài Năng Trẻ VN
+In loop 4
+Company : 3000117176525012A7D : Công Ty Tnhh Sản Xuất & Tm Hưng Phát
+Got here
+Went 1
+Went 1
+Went 1
+Went 1
+Went 1
++84905678832
+Got to before for loop
+In loop 0
+Person Account Soft Deleted : 3000138127801951E0F : Thân Đức Huy
+In loop 1
+Person Account : 3000138127801951E0F : Thân Đức Huy
+Got here
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Detected Soft Deleted Account
+Went 1
+IA000042762
+IA000042762
+IA000058644
++84966662351
+Got to before for loop
+In loop 0
+Person Account : 300011711207216919A : Phạm Thế Trường
+In loop 1
+Person Account : 300011596065210B0D9 : Phạm Thế Trưởng
+Got here
+Went 1
+Went 1
++84912867977
+Got to before for loop
+In loop 0
+Person Account : 300011596104793BA8B : Đào Duy Thứ
+In loop 1
+Person Account Soft Deleted : 30001163644518B7E29 : Tạ Quang Diệp
+In loop 2
+Company : 30001445531969E0A7B : Công Ty Cp Xây Dựng Cầu Đường 5
+In loop 3
+Person Account Soft Deleted : 3000144551996B2E27D : Tạ Quang Diệp
+In loop 4
+Person Account : 3000144551996B2E27D : Tạ Quang Diệp
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Detected Soft Deleted Account
+Went 1
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
++84947256666
+Got to before for loop
+In loop 0
+Person Account : 3000147493091BE4AE4 : Lê Tuấn Anh
+In loop 1
+Person Account Soft Deleted : 3000147493091BE4AE4 : Lê Tuấn Anh
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Detected Soft Deleted Account
+IA000042906
+IA000042906
+IA000054013
++84903636035
+Got to before for loop
+In loop 0
+Company : 3000117251564017D11 : Công Ty Tnhh Creative Engineering
+In loop 1
+Person Account : 30001159629250F51ED : Phạm Lan Chi
+In loop 2
+Company : 300011725201EB5E428 : Công ty TNHH Creative Engineering
+Got here
+Went 1
+Went 1
+Went 1
++84902402888
+Got to before for loop
+In loop 0
+Person Account : 3000142378315757152 : Đặng Thành Trung
+In loop 1
+Person Account : 300011620481CB08475 : Nguyễn Ngọc Trung
+Got here
+Went 1
+Went 1
++84978752468
+Got to before for loop
+In loop 0
+Person Account : 30001159679948B0388 : Chu Quang Long
+In loop 1
+Person Account Soft Deleted : 30001159679948B0388 : Chu Quang Long
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Detected Soft Deleted Account
+IA000043699
+IA000056853
++84972507222
+Got to before for loop
+In loop 0
+Person Account : 340004151638042787A : Nguyễn Văn Thành
+In loop 1
+Person Account Soft Deleted : 300011597128AB2E297 : Nguyễn Văn Thành
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
++84973010688
+Got to before for loop
+In loop 0
+Person Account : 3000115971895173402 : Nguyễn Hữu Tùng
+Got here
+Went 1
++84971925268
+Got to before for loop
+In loop 0
+Person Account : 3000115972958C0050D : Nguyễn Quý Kiên
+In loop 1
+Person Account Soft Deleted : 3000115972958C0050D : Nguyễn Quý Kiên
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Detected Soft Deleted Account
+IA000044283
+IA000056922
++84969768666
+Got to before for loop
+In loop 0
+Person Account : 3000115976392AF5E4B : Thịnh
+In loop 1
+Person Account : 300011176087EDC7D9C : Ông Lê Văn Thịnh
+Got here
+Went 1
+Went 1
++84982287248
+Got to before for loop
+In loop 0
+Company : 300011725393AADB87F : Công Ty Cp Phân Lân Nung Chảy Lào Cai
+In loop 1
+Person Account : 300011597703B4503BC : Phạm Văn Khâm
+In loop 2
+Person Account Soft Deleted : 300011597703B4503BC : Phạm Văn Khâm
+Got here
+Went 1
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Detected Soft Deleted Account
+IA000044772
++84903484843
+Got to before for loop
+In loop 0
+Person Account : 300011597921C1376F8 : Bùi Thị Kim Thảo
+In loop 1
+Person Account Soft Deleted : 300011597921C1376F8 : Bùi Kim Thảo
+In loop 2
+Person Account : 30001165108139ADA16 : Bui Kim Thảo
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+IA000045037
+IA000078805
++84949255555
+Got to before for loop
+In loop 0
+Person Account : 3000147628765EB6319 : Nguyễn Văn Vinh
+In loop 1
+Person Account : 300011598209639B86B : Đỗ Thị Dung
+In loop 2
+Person Account : 30001117615787007E4 : Ông Nguyễn Văn Vinh
+Got here
+Went 1
+Went 1
+Went 1
++84904488366
+Got to before for loop
+In loop 0
+Person Account : 3000115983386E217E7 : Bùi Văn Cường
+Got here
+Went 1
++84981723999
+Got to before for loop
+In loop 0
+Company : 300011739079F297B72 : Công Ty Tnhh Đầu Tư Quốc Tế Hasu Việt Nam
+In loop 1
+Person Account : 30001169314305198D7 : Mr Thanh
+In loop 2
+Person Account : 300011692452CDBF1FE : Lê Thị Mai
+In loop 3
+Person Account : 3000115983540C117EF : Nguyễn Văn Thanh
+Got here
+Went 1
+Went 1
+Went 1
+Went 1
++84357201923
+Got to before for loop
+In loop 0
+Person Account : 300011176129DF947BE : Bà Đặng Thị Bích Hà
+In loop 1
+Person Account : 300011175870D41888E : Võ Quang Thái
+In loop 2
+Person Account : 300011585458E490A10 : Đặng Thị Bích Hà
+Got here
+Went 1
+Went 1
+Went 1
++84978843429
+Got to before for loop
+In loop 0
+Person Account : 3000115984299AB7831 : Lê Đức Nghĩa
+Got here
+Went 1
++84911998688
+Got to before for loop
+In loop 0
+Person Account : 300011598445513964F : Phan Quốc Trung
+Got here
+Went 1
++84916119956
+Got to before for loop
+In loop 0
+Person Account Soft Deleted : 3000115985250802675 : Dương Quỳnh Hoa
+In loop 1
+Person Account : 300011176182D952D48 : Bà Dương Quỳnh Hoa
+In loop 2
+Person Account Soft Deleted : 300011176182D952D48 : Dương Quỳnh Hoa
+Got here
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 1
+Went 2
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Detected Soft Deleted Account
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
++84938312888
+Got to before for loop
+In loop 0
+Person Account : 300011714238C2596BA : Trịnh Hoàng Anh
+In loop 1
+Person Account : 3000115987998EF5BCC : Ngô Đức Bằng
+In loop 2
+Person Account Soft Deleted : 3000115987998EF5BCC : Ngô Đức Bằng
+In loop 3
+Person Account : 300014755656D5310BE : Đỗ Quý Hoàng
+Got here
+Went 1
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+IA000056771
++84912468612
+Got to before for loop
+In loop 0
+Person Account : 300011598927CF70F32 : Nguyễn Xuân Quý
+Got here
+Went 1
++84904167287
+Got to before for loop
+In loop 0
+Person Account : 300011176111974E134 : Lê Văn Cường
+Got here
+Went 1
++84983835837
+Got to before for loop
+In loop 0
+Company : 3000117255579B52930 : Công Ty Tnhh Mtv Chín Nghĩa Miền Trung
+In loop 1
+Company : 300011725544F882973 : Công Ty Tnhh Mtv Chín Nghĩa Miền Trung
+In loop 2
+Person Account : 3000115926983D62467 : Nguyễn Minh Hiếu
+In loop 3
+Person Account Soft Deleted : 3000115926983D62467 : Nguyễn Minh Hiếu
+Got here
+Went 1
+Went 1
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Detected Soft Deleted Account
+IA000038692
+IA000046835
++84935131133
+Got to before for loop
+In loop 0
+Person Account : 300011599381AD92A0F : Nguyễn Phú Dũng
+Got here
+Went 1
++84988854830
+Got to before for loop
+In loop 0
+Person Account : 3000115997125074079 : Dương Văn Hùng
+In loop 1
+Person Account : 300011703349A03543A : Anh Hùng
+Got here
+Went 1
+Went 1
++84906044079
+Got to before for loop
+In loop 0
+Person Account : 300011599859154C36D : Hoàng Tám Phi
+Got here
+Went 1
++84902134838
+Got to before for loop
+In loop 0
+Person Account : 300011599977B964381 : Trương Đức Thọ
+In loop 1
+Company : 30001172571489C1CB9 : Công Ty Tnhh Monoco Việt Nam
+Got here
+Went 1
+Went 1
++84386818686
+Got to before for loop
+In loop 0
+Person Account : 300011599982A0C0657 : Trần Minh Tú
+Got here
+Went 1
++84911220838
+Got to before for loop
+In loop 0
+Person Account : 300011176458683BDAE : Nguyễn Chí Công
+In loop 1
+Person Account : 3000111765339B8483A : Phạm Chí Công
+In loop 2
+Person Account Soft Deleted : 300011176458683BDAE : Nguyễn Chí Công
+Got here
+Went 1
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+IA000047514
+IA000047543
++84989668342
+Got to before for loop
+In loop 0
+Person Account : 30001160045810D568E : Nguyễn Như Bình
+In loop 1
+Person Account : 300011176640024E124 : Đặng Thanh Hùng
+In loop 2
+Company : 300011725642CBEDCB0 : Công Ty Tnhh Xây Dựng Hkd Việt Nam
+In loop 3
+Person Account Soft Deleted : 300011176640024E124 : Đặng Thanh Hùng
+Got here
+Went 1
+Went 1
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+IA000047625
++84973151986
+Got to before for loop
+In loop 0
+Person Account : 300014657731E4A060F : Nguyễn Văn Quang
+In loop 1
+Person Account Soft Deleted : 3000116214929C12740 : Nguyễn Văn Quang
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
++84979823836
+Got to before for loop
+In loop 0
+Person Account : 300011600965D412B34 : Phan Đức Thuận
+In loop 1
+Company : 300014189952A27BE08 : Công ty TNHH Thuận Thắng
+Got here
+Went 1
+Went 1
++84984547887
+Got to before for loop
+In loop 0
+Person Account : 300011601199B6C15D7 : Trần Văn Trường
+In loop 1
+Company : 3000137953980EBA98A : Công ty CP Xây dựng ĐT và TM Xuân Trường
+In loop 2
+Person Account : 300013914793E7CAAAA : Trần Văn Trường
+In loop 3
+Person Account Soft Deleted : 300011601199B6C15D7 : Trần Văn Trường
+In loop 4
+Person Account Soft Deleted : 300011601199B6C15D7 : Trần Văn Trường
+Got here
+Went 1
+Went 1
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
++84904343152
+Got error here, can't find the phone number: +84904343152
++84936399111
+Got to before for loop
+In loop 0
+Person Account : 3000147842989782548 : Nguyễn Tiến Chín
+In loop 1
+Person Account : 3000116013582C643EF : Cao Hải Nam
+In loop 2
+Person Account Soft Deleted : 300011679482CE55B86 : Nguyễn Tiến Chín
+Got here
+Went 1
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
++84904009198
+Got to before for loop
+In loop 0
+Person Account : 300011601383EBC596B : Phạm Anh Đức
+Got here
+Went 1
++84936215988
+Got to before for loop
+In loop 0
+Person Account : 3000151552648250AFA : Hoàng Văn Đạo
+Got here
+Went 1
++84982295685
+Got to before for loop
+In loop 0
+Person Account : 300011601723D159E6D : Phạm Minh Tú
+Got here
+Went 1
++84988603220
+Got error here, can't find the phone number: +84988603220
++84974868212
+Got to before for loop
+In loop 0
+Person Account : 3000116018871041363 : Vũ Hà
+Got here
+Went 1
++84986667686
+Got to before for loop
+In loop 0
+Person Account : 300011601899FF056BE : Nguyễn Văn Hiệu
+Got here
+Went 1
++84916285668
+Got to before for loop
+In loop 0
+Person Account : 300011601969FBF374E : Chu Kim Khôi
+Got here
+Went 1
++84912007164
+Got to before for loop
+In loop 0
+Person Account : 300011628676E13E545 : Hoàng Minh Khánh
+In loop 1
+Person Account Soft Deleted : 300011628676E13E545 : Hoàng Minh Khánh
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Detected Soft Deleted Account
+IA000059208
+IA000050247
+Found right dealer
++84975926222
+Got to before for loop
+In loop 0
+Person Account : 3000138710580B33132 : Vũ Văn Tiến
+Got here
+Went 1
++84913559202
+Got to before for loop
+In loop 0
+Person Account : 3000138676256F2B435 : Lê Trọng Đảm
+Got here
+Went 1
++84938622886
+Got to before for loop
+In loop 0
+Person Account : 3000135954028B1629F : Nguyễn Văn Lợi
+In loop 1
+Person Account : 300013869011BBC0008 : Nguyễn Văn Lợi
+Got here
+Went 1
+Went 1
++84948883388
+Got to before for loop
+In loop 0
+Person Account : 300011714641992669A : Thịnh Anh Tuấn
+Got here
+Went 1
++84962747009
+Got to before for loop
+In loop 0
+Person Account : 3000138170354DC5BE0 : Vũ Thị Chung
+Got here
+Went 1
++84981269922
+Got to before for loop
+In loop 0
+Company : 3000138629363C9D278 : Công ty TNHH Trần Gia Phú Thái
+In loop 1
+Person Account : 30001407889193B2D9B : Trần Hải Trung
+Got here
+Went 1
+Went 1
++84942338989
+Got to before for loop
+In loop 0
+Person Account : 300014066119AD6A767 : Vũ Ngọc Diệp
+In loop 1
+Person Account Soft Deleted : 300013870941E546896 : Vũ Ngọc Diệp
+In loop 2
+Person Account Soft Deleted : 300014066119AD6A767 : Vũ Ngọc Diệp
+In loop 3
+Person Account Soft Deleted : 300014066119AD6A767 : Vũ Ngọc Diệp
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 4
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 4
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
++84916913199
+Got to before for loop
+In loop 0
+Person Account : 3000139064516F5FC24 : Phạm Thị Hương Thơm
+In loop 1
+Company : 3400090751064B19962 : Chi nhánh Công ty TNHH Nam Trí Việt
+Got here
+Went 1
+Went 1
++84869868656
+Got to before for loop
+In loop 0
+Person Account : 3000141138576427B07 : Lê Ngọc Tuyển
+In loop 1
+Person Account Soft Deleted : 3000141138576427B07 : Lưu Ngọc Tuyển
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Detected Soft Deleted Account
+IA000051060
+IA000051510
++84967816588
+Got to before for loop
+In loop 0
+Person Account : 3000139491796184779 : Chu Tuấn Dũng
+Got here
+Went 1
++84988031082
+Got to before for loop
+In loop 0
+Person Account : 300014755889C17EA35 : Hoàng Đức Tiến
+In loop 1
+Person Account : 30001402762910912B4 : Hoàng Đức Tiến
+Got here
+Went 1
+Went 1
++84942812868
+Got to before for loop
+In loop 0
+Person Account : 300014037252F58BC21 : Nguyễn Duy Anh
+Got here
+Went 1
++84979153333
+Got to before for loop
+In loop 0
+Person Account : 300014031381055C605 : Đào Thế Quang
+In loop 1
+Person Account : 300014030366CA5139F : Lê Văn Hoàng
+In loop 2
+Person Account : 340009449465E71FCDA : Hoàng Văn Thụ
+Got here
+Went 1
+Went 1
+Went 1
++84868063345
+Got to before for loop
+In loop 0
+Company : 300014775031A4DFA69 : Công ty CP Vật liệu sinh thái Việt Nam
+In loop 1
+Person Account : 30001408187001AF2B6 : Đinh Văn Thọ
+In loop 2
+Person Account : 30001158895271D88F0 : Đinh Thành Công
+Got here
+Went 1
+Went 1
+Went 1
++84971306282
+Got to before for loop
+In loop 0
+Person Account : 300014120035EEF88A6 : Nguyễn Minh Huy
+Got here
+Went 1
++84906631081
+Got to before for loop
+In loop 0
+Person Account : 300014965924D8F3FBE : Đỗ Đức Sang
+In loop 1
+Person Account : 3000116794438BDDB1F : Sáng
+Got here
+Went 1
+Went 1
++84972919480
+Got to before for loop
+In loop 0
+Person Account : 30001433302251D19AC : Phạm Tiến Lực
+In loop 1
+Person Account : 300014142314797C447 : Nguyễn Tiến Lực
+In loop 2
+Person Account : 300014142255C614554 : Bùi Nam Cường
+Got here
+Went 1
+Went 1
+Went 1
++84966208339
+Got to before for loop
+In loop 0
+Person Account : 300014175996BFAEECB : Đặng Văn Sơn
+Got here
+Went 1
++84903234545
+Got to before for loop
+In loop 0
+Person Account : 300011620806F8C5F1D : Nguyễn Huy Anh
+Got here
+Went 1
++84983005115
+Got to before for loop
+In loop 0
+Person Account : 30001418674834186F0 : Trần Thị Vân Anh
+Got here
+Went 1
++84968654290
+Got to before for loop
+In loop 0
+Person Account : 300011705794427CBCE : Lê Văn Dương
+Got here
+Went 1
++84976222883
+Got to before for loop
+In loop 0
+Person Account : 3000151750954C6137B : Đỗ Thế Mạnh
+Got here
+Went 1
++84989656789
+Got to before for loop
+In loop 0
+Person Account : 30001420308780F6BE7 : Bùi Tuấn Phương
+Got here
+Went 1
++84913234944
+Got to before for loop
+In loop 0
+Person Account : 300014743301EDAEDB6 : Hoàng Anh
+In loop 1
+Person Account : 300011677707B619113 : Hoàng Long
+Got here
+Went 1
+Went 1
++84937208888
+Got to before for loop
+In loop 0
+Person Account : 300014298064A24E339 : Vũ Tuấn Cường
+In loop 1
+Person Account : 3000115685341C0ECFD : Nguyễn Thị Thu Hằng
+Got here
+Went 1
+Went 1
++84966575019
+Got to before for loop
+In loop 0
+Person Account : 300014659507D51613B : Nguyễn Đình Trường
+In loop 1
+Person Account Soft Deleted : 3000116245957DF9D68 : Nguyễn Đình Trường
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
++84916555999
+Got to before for loop
+In loop 0
+Person Account : 300014314325952CC83 : Phạm Phạm Lê Hạnh
+In loop 1
+Person Account : 3000143103424D44F9A : Nguyễn Viết Huy
+Got here
+Went 1
+Went 1
++84971109339
+Got to before for loop
+In loop 0
+Company Soft Deleted : 3000143228242E78900 : Công Ty Cổ Phần Gỗ Ép BG
+In loop 1
+Company : 3000143228242E78900 : Công Ty Cổ Phần Gỗ Ép BG
+In loop 2
+Person Account : 300014322830619F432 : Đặng Hoài Vũ
+In loop 3
+Person Account Soft Deleted : 300014322830619F432 : Đặng Hoài Vũ
+Got here
+Went 1
+Went 1
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Detected Soft Deleted Account
+IA000052306
++84903498483
+Got to before for loop
+In loop 0
+Person Account Soft Deleted : 300011632637062C903 : Dương Đình Nguyên
+In loop 1
+Person Account : 300011632637062C903 : Dương Đình Nguyên
+In loop 2
+Person Account Soft Deleted : 300011632637062C903 : Dương Đình Nguyên
+Got here
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Went 3
+Went 4
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 1
+Went 2
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Detected Soft Deleted Account
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
++84812451997
+Got to before for loop
+In loop 0
+Person Account : 30001434576030E9D0F : Nguyễn Duy Anh
+Got here
+Went 1
++84936559988
+Got to before for loop
+In loop 0
+Person Account : 3000116299095F0C4A4 : Hoàng Trung Thẩm
+In loop 1
+Person Account Soft Deleted : 3000116299095F0C4A4 : Hoàng Trung Thẩm
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Detected Soft Deleted Account
+IA000052625
+IA000059638
++84354221245
+Got to before for loop
+In loop 0
+Person Account : 300014376205AE58F42 : Nguyễn Văn Lâm
+Got here
+Went 1
++84847088888
+Got to before for loop
+In loop 0
+Person Account : 300014414747BFB5A0B : Đào Thị Hải
+Got here
+Went 1
++84936055564
+Got to before for loop
+In loop 0
+Person Account : 300014442602AA0B507 : Đỗ Văn Thắng
+Got here
+Went 1
++84915522525
+Got to before for loop
+In loop 0
+Person Account : 3000116226418FC86E1 : Hoàng Văn Lâm
+Got here
+Went 1
++84904982345
+Got to before for loop
+In loop 0
+Person Account : 300011600495BE4ABC3 : Trần Quang Huy
+In loop 1
+Company : 3000144478355E07E21 : Công ty TNHH Du Lịch và Dịch Vụ DOMINOS
+In loop 2
+Person Account : 300014447814C575E99 : Nguyễn Đức Thắng
+In loop 3
+Person Account Soft Deleted : 300011600495BE4ABC3 : Trần Quang Huy
+Got here
+Went 1
+Went 1
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+IA000048016
++84977210965
+Got to before for loop
+In loop 0
+Person Account : 300014475216F2C8F4E : Hà Khắc Duy
+In loop 1
+Person Account Soft Deleted : 3000117121132CF332B : Hà Khắc Duy
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
++84988906292
+Got to before for loop
+In loop 0
+Person Account : 3000144764771B8E652 : Nguyễn Bá Phương
+Got here
+Went 1
++84982451683
+Got to before for loop
+In loop 0
+Person Account : 300014546212B685A57 : Hà Đức Thịnh
+Got here
+Went 1
++84934587969
+Got to before for loop
+In loop 0
+Person Account : 300014174633112BBAD : Trần Hợp Quyết
+In loop 1
+Person Account Soft Deleted : 3000149366895C6BD5D : Trần Hợp Quyết
+In loop 2
+Person Account Soft Deleted : 300014174633112BBAD : Trần Hợp Quyết
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
++84982833106
+Got to before for loop
+In loop 0
+Person Account : 300014585610A712022 : Nguyễn Huy Hoàn
+Got here
+Went 1
++84916666497
+Got to before for loop
+In loop 0
+Person Account : 30001498431170D4D59 : Nguyễn Thị Kim Tiên
+In loop 1
+Person Account : 300014654206758B331 : Trần Thị Dịu Hòa
+Got here
+Went 1
+Went 1
++84976460000
+Got to before for loop
+In loop 0
+Person Account Soft Deleted : 30001403244191879D0 : Nguyễn Công Đoàn
+In loop 1
+Person Account Soft Deleted : 300015138663D9DBDD6 : Nguyễn Công Đoàn
+In loop 2
+Company : 3000149654671242CF8 : Công Ty Cổ Phần Kiến Trúc Việt Nam Xanh
+In loop 3
+Person Account Soft Deleted : 30001403244191879D0 : Đoàn
+In loop 4
+Person Account Soft Deleted : 300015138663D9DBDD6 : Nguyễn Công Đoàn
+Got here
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 4
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 2
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 4
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 1
+Went 2
+Went 3
+Went 4
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 2
+Went 3
+Went 4
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
++84915252668
+Got to before for loop
+In loop 0
+Person Account : 300015128408B334F5B : Nguyễn Văn Nga
+Got here
+Went 1
++84981060989
+Got to before for loop
+In loop 0
+Person Account : 300015290917F85D0BB : Đỗ Đình Đăng
+In loop 1
+Person Account : 340006892547981E097 : Mercedes Đào Xuân Bắc
+In loop 2
+Company : 340006892574980696B : Công ty cp truyền thông và dữ liệu thanh toán An Du
+Got here
+Went 1
+Went 1
+Went 1
++84888128188
+Got to before for loop
+In loop 0
+Person Account : 3000147812814A49FBD : Chu Văn Tuấn
+In loop 1
+Person Account Soft Deleted : 3000147812814A49FBD : Chu Văn Tuấn
+In loop 2
+Person Account : 300014788065C5D076D : Tuấn Anh
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+IA000054120
+IA000054120
++84969783061
+Got to before for loop
+In loop 0
+Person Account : 300014977276ED89F6C : Nguyễn Bá Hiền
+Got here
+Went 1
++84879555555
+Got to before for loop
+In loop 0
+Person Account : 30001485700013BDB1C : Ninh Tuấn Anh
+Got here
+Went 1
++84903423001
+Got to before for loop
+In loop 0
+Person Account : 3000148896142987B65 : Nguyễn Tuấn Linh
+Got here
+Went 1
++84973851888
+Got to before for loop
+In loop 0
+Person Account : 30001489035972D3611 : Nguyễn Trọng Trung
+Got here
+Went 1
++84988983193
+Got to before for loop
+In loop 0
+Person Account : 300014963119BE60B75 : Hoàng Gia Đại
+In loop 1
+Person Account Soft Deleted : 300011632118CE97093 : Hoàng Gia Đại
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
++84983263683
+Got to before for loop
+In loop 0
+Person Account : 300014852554566149F : Đào Hưng
+In loop 1
+Person Account : 3000149408750209AAE : Đào Việt Hưng
+In loop 2
+Person Account Soft Deleted : 300014852554566149F : Dao Viet Hung
+Got here
+Went 1
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+IA000054549
+IA000054549
++84888154111
+Got to before for loop
+In loop 0
+Person Account : 30001386840211C46C1 : Nguyễn Hoàng Vũ
+In loop 1
+Person Account : 3400076571102C9C488 : Nguyễn Hữu Thao
+Got here
+Went 1
+Went 1
++84978993429
+Got to before for loop
+In loop 0
+Person Account : 30001167949275AC41E : Lê Long Nhật
+In loop 1
+Person Account Soft Deleted : 30001167949275AC41E : Lê Long Nhật
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Detected Soft Deleted Account
+IA000054586
+IA000061853
++84974746366
+Got to before for loop
+In loop 0
+Company : 300011723349A9E0910 : Công Ty Tnhh Tm & Xuất Nhập Khẩu Ly Ly
+In loop 1
+Person Account : 30001491995464FC0AA : Đặng Xuân Trịnh
+In loop 2
+Person Account : 340008223667E7E23B5 : Đoàn Đức Hưng
+Got here
+Went 1
+Went 1
+Went 1
++84778038666
+Got to before for loop
+In loop 0
+Person Account : 300014981399C0F5893 : Trương Phú Phong
+Got here
+Went 1
++84942511092
+Got to before for loop
+In loop 0
+Person Account : 300014985649D55CE81 : Phạm Đức Duy
+In loop 1
+Person Account : 34000459109220B95EE : Nguyễn Linh Chi
+Got here
+Went 1
+Went 1
++84988091512
+Got to before for loop
+In loop 0
+Person Account : 3000147628063F01429 : Phùng Liên Khanh
+In loop 1
+Person Account Soft Deleted : 300015016404A1B42F1 : Phùng Liên Khanh
+In loop 2
+Person Account Soft Deleted : 3000147628063F01429 : Phùng Liên Khanh
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Found right dealer
++84932377212
+Got to before for loop
+In loop 0
+Person Account : 3000150211907F52053 : Nguyễn Dũng Duy
+Got here
+Went 1
++84911110123
+Got to before for loop
+In loop 0
+Person Account : 300014070585CAC82FF : Vũ Minh Lý
+In loop 1
+Person Account Soft Deleted : 300014070585CAC82FF : Vũ Minh Lý
+In loop 2
+Person Account Soft Deleted : 300014070585CAC82FF : Vũ Minh Lý
+In loop 3
+Company : 3000150373900DBBF79 : Công ty Cp Check in việt nam
+In loop 4
+Person Account : 300015037421ED1E4CD : Lương Thế Anh
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 1
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
++84843155555
+Got to before for loop
+In loop 0
+Person Account : 300014560650717B591 : Nghiêm Văn Hiệp
+In loop 1
+Person Account : 300015042030D7C4167 : Trương Văn Hoan
+Got here
+Went 1
+Went 1
++84904392722
+Got to before for loop
+In loop 0
+Person Account : 3400041893757928A3F : Nguyễn Lê Trà My
+Got here
+Went 1
++84966560999
+Got to before for loop
+In loop 0
+Person Account : 30001162924067C1034 : Bùi Văn Quý
+In loop 1
+Person Account : 30001505226496C4D84 : Nguyễn Đình Qúy
+In loop 2
+Person Account : 3400088891107E3FB92 : Nguyễn Lương Thiện
+Got here
+Went 1
+Went 1
+Went 1
++84962218186
+Got to before for loop
+In loop 0
+Person Account Soft Deleted : 3000150613133C7B040 : Nguyễn Ngoc Đông
+In loop 1
+Person Account Soft Deleted : 30001522367670C328E : Nguyễn Ngoc Đông
+In loop 2
+Person Account : 3000150613133C7B040 : Nguyễn Ngoc Đông
+Got here
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Went 6
+Detected Soft Deleted Account
+Went 1
+Went 2
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
++84945309999
+Got to before for loop
+In loop 0
+Person Account : 3000145745807E815EF : Đinh Mạnh Đức
+In loop 1
+Person Account Soft Deleted : 3000145745807E815EF : Đinh Mạnh Đức
+In loop 2
+Person Account Soft Deleted : 30001503609487A5CE1 : Đinh Mạnh Đức
+In loop 3
+Person Account Soft Deleted : 3000145745807E815EF : Đinh Mạnh Đức
+In loop 4
+Person Account : 3400050105051BFA08B : Đinh Minh Đức
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 4
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
++84926826788
+Got to before for loop
+In loop 0
+Person Account : 300014755648C8D8746 : Lê Ngọc Tuyển
+In loop 1
+Person Account : 3000111761755FBFED4 : Ông Tuyển
+In loop 2
+Person Account : 30001159846047AE2E3 : Lê Ngọc Tuyển
+Got here
+Went 1
+Went 1
+Went 1
++84946634405
+Got to before for loop
+In loop 0
+Person Account : 300014276263EB59DD4 : Nguyễn Hoàng Giang
+Got here
+Went 1
++84393332103
+Got to before for loop
+In loop 0
+Person Account Soft Deleted : 300014984514CD0FD53 : Lê Thế Hoàng Linh
+In loop 1
+Person Account : 300014984514CD0FD53 : Lê Thế Hoàng Linh
+Got here
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Detected Soft Deleted Account
+Went 1
+IA000056289
+IA000058847
++84987468689
+Got to before for loop
+In loop 0
+Person Account : 3400041349748A66098 : Hoàng Trọng Hưng
+In loop 1
+Person Account Soft Deleted : 3400041349748A66098 : Hoàng Trọng Hưng
+In loop 2
+Company : 340004184399065AD5D : Công ty TNHH MTV Cơ Điện CN&XD Việt Nam
+In loop 3
+Person Account : 30001525434792679AC : Hưng
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 1
+IA000056440
+IA000056609
++84982799999
+Got to before for loop
+In loop 0
+Company : 300014730448AC61BDA : Công ty TNHH Thương Mại và Y tế Thiện Nghĩa
+In loop 1
+Person Account Soft Deleted : 300015113133DDF095B : Trần Khánh Linh
+In loop 2
+Person Account : 300015113133DDF095B : Trần Khánh Linh
+In loop 3
+Person Account : 3000147292858CE26A9 : Đỗ Thị Ánh Tuyết
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 1
+IA000058052
+IA000056480
++84986761976
+Got to before for loop
+In loop 0
+Person Account : 3400042104870EB50AC : Nguyễn Văn Chương
+In loop 1
+Person Account : 3400042282884E9E303 : Lưu Thúy Hồng
+Got here
+Went 1
+Went 1
++84976647044
+Got to before for loop
+In loop 0
+Person Account : 300014855286A20B2A9 : Chu Bá Hữu
+In loop 1
+Person Account Soft Deleted : 3400042735072FD0F71 : Đoàn Văn Chiến
+In loop 2
+Person Account Soft Deleted : 3400042735072FD0F71 : Đoàn Văn Chiến
+In loop 3
+Person Account Soft Deleted : 300014855286A20B2A9 : Chu Bá Hữu
+In loop 4
+Person Account : 3400042735072FD0F71 : Đoàn Văn Chiến
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Went 6
+Detected Soft Deleted Account
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Went 6
+Detected Soft Deleted Account
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 4
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
++84969160550
+Got to before for loop
+In loop 0
+Person Account Soft Deleted : 34000427955648A4471 : Nguyễn Thị Thơm
+In loop 1
+Person Account : 34000427955648A4471 : Nguyễn Thị Thơm
+Got here
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Detected Soft Deleted Account
+Went 1
+IA000056957
++84938823388
+Got to before for loop
+In loop 0
+Person Account : 340004290100F46E037 : Trương Thị Hương Trà
+In loop 1
+Person Account : 3400046136610A02E12 : Nguyễn Tùng
+Got here
+Went 1
+Went 1
++84912109535
+Got to before for loop
+In loop 0
+Company : 34000430769927FC186 : Công Ty TNHH MTV Nam Tuyên
+In loop 1
+Person Account : 3400043076883D0EA76 : Đặng Văn Cường
+In loop 2
+Person Account : 3400047816252D931D5 : Đặng Ngọc Cẩn
+Got here
+Went 1
+Went 1
+Went 1
++84975590886
+Got to before for loop
+In loop 0
+Person Account : 340004351694B7B74DC : Nguyễn Duy Khuyến
+Got here
+Went 1
++84333666111
+Got to before for loop
+In loop 0
+Person Account : 300014475384E030F50 : Nguyễn Khắc Tú
+In loop 1
+Person Account : 3000144753623E7A67A : Phùng Thế Vinh
+Got here
+Went 1
+Went 1
++84943498338
+Got to before for loop
+In loop 0
+Person Account : 300014326374ED87CEB : Phạm Ngọc Hoàng
+In loop 1
+Person Account : 300011599276D17632C : Vũ Duy Hưng
+In loop 2
+Person Account : 30001117630107A8C6A : Ông Vũ Duy Hưng
+Got here
+Went 1
+Went 1
+Went 1
++84963558896
+Got to before for loop
+In loop 0
+Person Account : 30001390930094039E3 : Phùng Lê Duy
+In loop 1
+Person Account : 300014310578EC4DBBD : Phùng Lê Duy
+In loop 2
+Person Account : 300014755629478BC0F : Mr. Duy
+Got here
+Went 1
+Went 1
+Went 1
++84972407049
+Got to before for loop
+In loop 0
+Person Account : 300014031087CF026F7 : Trịnh Đăng Cường
+In loop 1
+Person Account : 300011636283466E45C : Cường-S540Luxury- Gia Đình Tối 14.8.19
+In loop 2
+Person Account : 300011175448DF5D852 : Nguyễn Xuân Cường
+Got here
+Went 1
+Went 1
+Went 1
++84904266956
+Got to before for loop
+In loop 0
+Person Account : 30001381351500ACB1D : Phạm Phạm Hữu Bắc
+Got here
+Went 1
++84912060088
+Got to before for loop
+In loop 0
+Person Account : 300011706002ECF714D : Chu Huỳnh Phương
+In loop 1
+Person Account Soft Deleted : 300011706002ECF714D : Chu Huỳnh Phương
+In loop 2
+Person Account Soft Deleted : 300011706002ECF714D : Chu Huỳnh Phương
+In loop 3
+Company : 34000868819471D3082 : Tổng Công Ty Cổ Phần Bảo Hiểm Sài Gòn Hà Nội
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
++84972528586
+Got to before for loop
+In loop 0
+Person Account : 300015346979FD60EDC : Nguyễn Duy Hóa
+In loop 1
+Person Account Soft Deleted : 300015346979FD60EDC : Nguyễn Duy Hóa
+In loop 2
+Person Account Soft Deleted : 300015346979FD60EDC : Nguyễn Duy Hóa
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
++84983434086
+Got to before for loop
+In loop 0
+Person Account : 340004768732257DC9B : Lương Thị Ngọc Thủy
+Got here
+Went 1
++84916531985
+Got to before for loop
+In loop 0
+Company : 3400063221324D0F537 : Công Ty TNHH VINAEVENT Quốc Tế
+In loop 1
+Person Account : 340007225605F64C66D : Nguyễn Văn Sơn
+In loop 2
+Person Account Soft Deleted : 3400047826628FD3DE9 : Nguyễn Văn Sơn
+Got here
+Went 1
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
++84966106888
+Got to before for loop
+In loop 0
+Company : 3400047913545245B65 : Hộ Kinh doanh Nguyễn Thành Trung
+In loop 1
+Person Account : 340004791341E310897 : Nguyễn Thành Trung
+Got here
+Went 1
+Went 1
++84788041986
+Got to before for loop
+In loop 0
+Company : 34000479661860879C7 : Công ty TNHH Dược Phẩm và Thương Mại Kim Ngọc
+In loop 1
+Person Account : 34000479661162C8AD8 : Lý Thị Hòa
+Got here
+Went 1
+Went 1
++84986269453
+Got to before for loop
+In loop 0
+Person Account : 3000117043759FBB100 : Kim Ngọc Hoàng Linh
+In loop 1
+Person Account Soft Deleted : 3000117043759FBB100 : Kim Ngọc Hoàng Linh
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Detected Soft Deleted Account
+IA000059619
+IA000075955
++84936053309
+Got to before for loop
+In loop 0
+Person Account Soft Deleted : 300013868401AC141EE : Hà Minh Đức
+In loop 1
+Person Account : 300014855280EB0204D : Đức
+In loop 2
+Person Account : 300013868401AC141EE : Hà Minh Đức
+Got here
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Detected Soft Deleted Account
+Went 1
+Went 1
+IA000059771
+IA000078450
++84971365299
+Got to before for loop
+In loop 0
+Person Account : 340004995332CBD28AE : Nguyễn Văn Biện
+In loop 1
+Person Account : 340004842493D8A9ABE : Nguyễn Huy Thịnh
+Got here
+Went 1
+Went 1
++84904566799
+Got to before for loop
+In loop 0
+Person Account : 300015458230BF18CF1 : Đào Ngọc Toản
+Got here
+Went 1
++84961827868
+Got to before for loop
+In loop 0
+Person Account : 340004871770BF44BBB : Trần Văn Tiền
+In loop 1
+Person Account Soft Deleted : 340004871770BF44BBB : Trần Văn Tiền
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Detected Soft Deleted Account
+IA000059959
++84971698639
+Got to before for loop
+In loop 0
+Person Account : 300011715010090CC37 : Hoàng Đình Tiến
+In loop 1
+Person Account Soft Deleted : 300011715010090CC37 : Hoàng Đình Tiến
+In loop 2
+Person Account Soft Deleted : 300011715010090CC37 : Hoàng Đình Tiến
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
++84977827830
+Got to before for loop
+In loop 0
+Person Account : 3400061933652976A2E : Nguyễn Hồng Thanh
+In loop 1
+Person Account : 3000154859208551ACA : Hoàng Hồng Thanh
+Got here
+Went 1
+Went 1
++84931235689
+Got to before for loop
+In loop 0
+Person Account : 340005033330882E68C : Trần Thị Tiến
+In loop 1
+Person Account : 3400049364963D52F43 : Dương Văn Tuấn
+In loop 2
+Person Account : 3400067729162CE7FBE : Nguyễn Thị Tuyền
+Got here
+Went 1
+Went 1
+Went 1
++84971713333
+Got to before for loop
+In loop 0
+Person Account : 300011707630BEEE8C9 : Từ Ngọc Dương
+In loop 1
+Person Account Soft Deleted : 300011707630BEEE8C9 : Từ Ngọc Dương
+In loop 2
+Person Account Soft Deleted : 300011707630BEEE8C9 : Từ Ngọc Dương
+In loop 3
+Person Account Soft Deleted : 3000117135611D2AB70 : Từ Ngọc Dương
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 4
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
++84912374325
+Got to before for loop
+In loop 0
+Person Account Soft Deleted : 3400049657402848662 : Nguyễn Thị Thanh Huyền
+In loop 1
+Person Account : 3400049657402848662 : Nguyễn Thị Thanh Huyền
+Got here
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Detected Soft Deleted Account
+Went 1
+IA000060422
++84975988868
+Got to before for loop
+In loop 0
+Person Account : 30001162131008059A5 : Nguyễn Anh Tuấn
+Got here
+Went 1
++84926382222
+Got to before for loop
+In loop 0
+Person Account : 3400050050749292294 : Nguyễn Đức Thuận
+Got here
+Went 1
++84917267998
+Got to before for loop
+In loop 0
+Person Account Soft Deleted : 34000500906862D5D3C : Lưu Hoàng Dương
+In loop 1
+Person Account : 34000500906862D5D3C : Lưu Hoàng Dương
+Got here
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Detected Soft Deleted Account
+Went 1
+IA000060569
++84973414199
+Got to before for loop
+In loop 0
+Person Account Soft Deleted : 340005004671C959300 : Phạm Quang Thái
+In loop 1
+Person Account : 340005004671C959300 : Phạm Quang Thái
+Got here
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Detected Soft Deleted Account
+Went 1
+IA000060666
+Found right dealer
++84988609888
+Got to before for loop
+In loop 0
+Person Account : 3000116890578F64D15 : Phan Đình Phong
+In loop 1
+Person Account Soft Deleted : 3000116890578F64D15 : Phan Đình Phong
+In loop 2
+Person Account Soft Deleted : 3000116890578F64D15 : Phan Đình Phong
+In loop 3
+Person Account Soft Deleted : 3000116890578F64D15 : Phan Đình Phong
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 4
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 4
+Went 5
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
++84913378956
+Got to before for loop
+In loop 0
+Person Account : 300015161828B8CA1F8 : Lương Quý Hùng
+In loop 1
+Person Account Soft Deleted : 300015161828B8CA1F8 : Lương Quý Hùng
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Detected Soft Deleted Account
+IA000060949
+IA000062615
++84247303999
+Got error here, can't find the phone number: +84247303999
++84904233201
+Got to before for loop
+In loop 0
+Person Account : 340005234990FB74F3C : Võ Như Hùng
+Got here
+Went 1
++84966690193
+Got to before for loop
+In loop 0
+Person Account Soft Deleted : 34000496441821F7021 : Trần Tuấn Anh
+In loop 1
+Person Account : 34000496441821F7021 : Trần Tuấn Anh
+Got here
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Detected Soft Deleted Account
+Went 1
+IA000061113
+IA000063968
+IA000061113
+IA000063968
+IA000063968
++84834828688
+Got to before for loop
+In loop 0
+Person Account : 300015622007D90A76C : Dương Sơn Tùng
+Got here
+Went 1
++84989324060
+Got to before for loop
+In loop 0
+Company : 340005012963FC9AA8A : Công ty TNHH Thương mại Dương Quang
+In loop 1
+Person Account : 3400050129521CC5D7E : Nguyễn Thị Tuyết Hoa
+In loop 2
+Person Account : 300011621881A118B22 : Đoàn Hữu Cường
+Got here
+Went 1
+Went 1
+Went 1
++84902000902
+Got to before for loop
+In loop 0
+Person Account : 3400086692468F0BE19 : Lê Hoàng Mỹ Anh
+In loop 1
+Person Account : 34000533131876570FF : Lê Hoàng Nguyệt Anh
+Got here
+Went 1
+Went 1
++84935076688
+Got to before for loop
+In loop 0
+Person Account : 300015669690A9CBDD3 : Nguyễn Thị Quỳnh Nga
+In loop 1
+Person Account : 340005430964C68BE17 : Nguyễn Anh Tuấn
+Got here
+Went 1
+Went 1
++84911421993
+Got to before for loop
+In loop 0
+Person Account : 340008924285B1A67A5 : Nguyễn Đức Trọng
+Got here
+Went 1
++84961710938
+Got to before for loop
+In loop 0
+Person Account Soft Deleted : 34000552942040BD7CE : Vũ Nguyễn Hồng Minh
+In loop 1
+Person Account : 34000552942040BD7CE : Vũ Nguyễn Hồng Minh
+Got here
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Detected Soft Deleted Account
+Went 1
+IA000061987
+IA000062012
+IA000063743
+IA000061987
++84988001968
+Got to before for loop
+In loop 0
+Person Account : 3400072080718D703A8 : Phạm Kim Dung
+In loop 1
+Person Account : 34000570643228BC4CC : Hoàng Hoàng Tuấn Anh
+Got here
+Went 1
+Went 1
++84835698888
+Got to before for loop
+In loop 0
+Person Account : 3400062937705636137 : Nguyễn Tiến Đạt
+Got here
+Went 1
++84902220187
+Got to before for loop
+In loop 0
+Person Account : 340006284011064A324 : Nguyễn Tiến An Nguyễn Tiến Nam
+Got here
+Went 1
++84912853307
+Got to before for loop
+In loop 0
+Person Account : 300011641779522F28F : Vũ Bích Ngọc
+In loop 1
+Person Account Soft Deleted : 300011641779522F28F : Vũ Bích Ngọc
+In loop 2
+Person Account : 3000115723067B65EB0 : Do Viet Hai
+In loop 3
+Person Account Soft Deleted : 300011641779522F28F : Vũ Bích Ngọc
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 5
+Went 3
+Went 4
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 4
+Went 5
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
+Called: [[ChromeDriver: chrome on WINDOWS (1ff57a402dc2635f53d28e35ac20481b)] -> xpath: //div[@class="resultsItem slds-col slds-no-flex slds-m-bottom_small"][1]/div//div/div//div/div//div/div//div/div//table[@data-aura-class="uiVirtualDataTable"]//tbody//tr/descendant::td//span//a[@data-aura-class and string-length(@title) != 0]]
++84979122836
+Got to before for loop
+In loop 0
+Person Account : 340005890450418D4A1 : Phạm Hữu Kim
+Got here
+Went 1
+01629780554@
+Got to before for loop
+In loop 0
+Person Account : 340005908442FEEB26B : Đinh Danh Huy
+In loop 1
+Person Account Soft Deleted : 340005908442FEEB26B : Đinh Danh Huy
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Detected Soft Deleted Account
+IA000062531
+IA000062531
+Found right dealer
++84982179199
+Got to before for loop
+In loop 0
+Person Account : 34000593449244FAAAF : Nguyễn Việt Thành
+Got here
+Went 1
++84913535131
+Got to before for loop
+In loop 0
+Person Account : 3400059711606A97D8E : Vũ Mạnh Lân
+Got here
+Went 1
++84903409191
+Got to before for loop
+In loop 0
+Person Account : 34000491615529EDEDB : Phạm Hải Yến
+Got here
+Went 1
++84961559999
+Got to before for loop
+In loop 0
+Person Account : 340006002733B4B14C3 : Dương Quốc Trưởng
+Got here
+Went 1
++84913351976
+Got to before for loop
+In loop 0
+Person Account : 3400060188711101B50 : Phan Thị Ngọc Mai
+In loop 1
+Person Account : 34000830063568E7F49 : Trần Đức Việt
+Got here
+Went 1
+Went 1
++84972292255
+Got to before for loop
+In loop 0
+Person Account : 340006040169449C8F5 : Nguyễn Thị Thu Trang
+Got here
+Went 1
++84913336996
+Got to before for loop
+In loop 0
+Person Account : 300014843272D1C9A64 : Lê Quang Anh
+In loop 1
+Person Account Soft Deleted : 300014843272D1C9A64 : Lê Quang Anh
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Detected Soft Deleted Account
+IA000063144
+IA000064298
++84974014981
+Got to before for loop
+In loop 0
+Person Account : 340006064924BCEB5D0 : Lê Viết Tiến
+In loop 1
+Person Account : 340007355629C35A6D6 : Nguyễn Viết Tiến
+Got here
+Went 1
+Went 1
++84945674333
+Got to before for loop
+In loop 0
+Person Account : 340006066449FC25A11 : Thái Thị Phương
+Got here
+Went 1
++84966037777
+Got to before for loop
+In loop 0
+Person Account : 340006079638F771683 : Dương Xuân Lý
+Got here
+Went 1
++84989313111
+Got to before for loop
+In loop 0
+Person Account Soft Deleted : 340006128549F889557 : Nguyễn Văn Sơn
+In loop 1
+Person Account : 340006128549F889557 : Nguyễn Văn Sơn
+Got here
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Detected Soft Deleted Account
+Went 1
+IA000063605
+Found right dealer
++84813615555
+Got to before for loop
+In loop 0
+Person Account : 3400061319990C4EA25 : Trần Đắc Phong
+Got here
+Went 1
++84904949228
+Got to before for loop
+In loop 0
+Person Account : 340006159868F32009E : Nguyễn Yến Linh
+In loop 1
+Person Account Soft Deleted : 340006159868F32009E : Nguyễn Yến Linh
+Got here
+Went 1
+Went 1
+Went 2
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Detected Soft Deleted Account
+IA000063749
+Found right dealer
++84983649143
+Got to before for loop
+In loop 0
+Person Account : 340006171686E195634 : Lương Đình Hiếu
+Got here
+Went 1
++84844419999
+Got to before for loop
+In loop 0
+Person Account : 3400062213101D722C8 : Nguyễn Văn Hùng
+In loop 1
+Company : 34000610784584C0307 : Hộ Kinh Doanh Nguyễn Thị Luyện
+Got here
+Went 1
+Went 1
++84988966969
+Got to before for loop
+In loop 0
+Person Account : 34000757847279CBFFE : Bùi Thị Thu Huyền
+Got here
+Went 1
++84985939885
+Got to before for loop
+In loop 0
+Person Account : 340006319375F4AB131 : Trần Trần Thị Ngọc Bích
+In loop 1
+Company : 340006463156BB0A383 : Công ty TNHH Đầu Tư và Phát triển BigSea Land
+In loop 2
+Person Account : 3400064631660231CCF : Phạm Việt Hải
+Got here
+Went 1
+Went 1
+Went 1
++84915701368
+Got to before for loop
+In loop 0
+Company : 340006275085EA092B8 : Công ty TNHH Công nghệ và Thương mại Minh Phát
+In loop 1
+Person Account : 3400062750985B7508D : Đỗ Trường Minh
+Got here
+Went 1
+Went 1
++84912055647
+Got to before for loop
+In loop 0
+Person Account : 340006293594EA70EC1 : Ngô Thị Hương Loan
+Got here
+Went 1
++84974145599
+Got to before for loop
+In loop 0
+Person Account : 340006319462A0C95C9 : Dương Dương Quốc Tuấn
+Got here
+Went 1
++84963918456
+Got to before for loop
+In loop 0
+Person Account : 34000632244139570F8 : Lê Thị Hồng
+Got here
+Went 1
++84988081111
+Got to before for loop
+In loop 0
+Person Account : 300013552011A7FD05E : Dương Lệ Quyên
+In loop 1
+Person Account : 340006322462CDE031D : Đặng Thị Quỳnh
+In loop 2
+Person Account : 30001170466156C4BEB : Vũ Đình Cường
+In loop 3
+Person Account : 340006194066BAF76EB : Hoàng Ngọc Kiên
+Got here
+Went 1
+Went 1
+Went 1
+Went 1
++84877752222
+Got to before for loop
+In loop 0
+Person Account : 3400069951506A26711 : Trần Minh Tuyên
+Got here
+Went 1
++84966607969
+Got to before for loop
+In loop 0
+Person Account : 3400063280829F769B2 : Phạm Thanh Tùng
+In loop 1
+Person Account : 3400065924326D23354 : Nguyễn Thị Hương Giang
+In loop 2
+Person Account : 3000115938513B2F365 : Tùng
+Got here
+Went 1
+Went 1
+Went 1
++84904524777
+Got to before for loop
+In loop 0
+Person Account : 340006284712BC05158 : Ngọc Anh
+In loop 1
+Person Account : 340006398918D316CF4 : Nguyễn Thị Ngọc Anh
+In loop 2
+Person Account : 3400086166893F5E803 : Dương Đức Nam
+Got here
+Went 1
+Went 1
+Went 1
++84912113916
+Got to before for loop
+In loop 0
+Person Account : 3000149624003B0A583 : Vương Đình Lực
+Got here
+Went 1
++84912500854
+Got to before for loop
+In loop 0
+Person Account : 34000642406029172C9 : Vũ Thúy An
+In loop 1
+Person Account : 340007637634559F1F9 : Trần Ngọc Anh
+Got here
+Went 1
+Went 1
++84967338686
+Got to before for loop
+In loop 0
+Person Account : 3400064333551C6EA41 : Trần Khắc Lĩnh
+Got here
+Went 1
++84835558686
+Got to before for loop
+In loop 0
+Person Account : 3400064424586B5A79A : Nguyễn Anh Quân
+Got here
+Went 1
++84522286666
+Got to before for loop
+In loop 0
+Person Account : 34000646836114A9CD4 : Trần Văn Hùng
+Got here
+Went 1
++84396125789
+Got to before for loop
+In loop 0
+Person Account : 340006472420CDBE2CB : Lê Văn Đoàn
+Got here
+Went 1
++84886051777
+Got to before for loop
+In loop 0
+Person Account : 3400065194152A31012 : Nguyễn Hải Đăng
+Got here
+Went 1
++84987434958
+Got to before for loop
+In loop 0
+Person Account : 3400065568707280646 : Lê Khá Sơn
+Got here
+Went 1
++84936363922
+Got to before for loop
+In loop 0
+Company : 340006558791AFEC9B9 : Công ty TNHH KD Thương mại và DV Thắng Lợi
+In loop 1
+Person Account : 340006558785502096E : Diệp Hồ Cẩm Nhung
+Got here
+Went 1
+Went 1
++84705868986
+Got to before for loop
+In loop 0
+Person Account : 3400065767552B6DA20 : Nguyễn Anh Dũng
+Got here
+Went 1
++84962622608
+Got to before for loop
+In loop 0
+Person Account : 3400065882991EC56A1 : Vũ Thị Quyên
+Got here
+Went 1
++84846709898
+Got to before for loop
+In loop 0
+Person Account : 340006658468276F7B2 : Trần Thu Hường
+Got here
+Went 1
++84915333868
+Got to before for loop
+In loop 0
+Person Account : 340007286850E5DB0FD : Hoàng Thế Cường
+In loop 1
+Person Account : 340007149789F2BF301 : Đinh Thế Cường
+In loop 2
+Person Account : 34000714096401C7147 : Nguyễn Cường
+Got here
+Went 1
+Went 1
+Went 1
++84979502284
+Got to before for loop
+In loop 0
+Person Account : 34000670375320CEADC : Lê Trung Thành
+Got here
+Went 1
++84981302234
+Got to before for loop
+In loop 0
+Company : 3400067455567A74FE8 : Công ty TNHH Dược phẩm Lĩnh Nam
+In loop 1
+Person Account : 340006989219C8CDD04 : Lê Nam
+In loop 2
+Person Account : 3400067455465ADEFC1 : Nguyễn Thị Hòa
+Got here
+Went 1
+Went 1
+Went 1
++84961414888
+Got to before for loop
+In loop 0
+Person Account : 340006767114E7D3528 : Hà Văn Điệp
+Got here
+Went 1
++84966954697
+Got to before for loop
+In loop 0
+Person Account : 340006769481CB58E0A : Vũ Quang Thành
+Got here
+Went 1
++84856443222
+Got to before for loop
+In loop 0
+Person Account : 340006770746A2F10A4 : Nguyễn Hữu Đức
+Got here
+Went 1
++84988190968
+Got to before for loop
+In loop 0
+Person Account : 340006777328F1A1497 : Vũ Thị Hương
+Got here
+Went 1
++84974791892
+Got to before for loop
+In loop 0
+Person Account : 3400068845269777BA9 : Nguyễn Văn Hiển
+In loop 1
+Person Account : 3400068063741A55BB3 : Bùi Phương Hoa
+Got here
+Went 1
+Went 1
++84978630699
+Got to before for loop
+In loop 0
+Person Account : 3400068063942A92A9E : Lê Hồng Quân
+In loop 1
+Person Account : 34000680559713D4DD3 : Võ Văn Tài
+In loop 2
+Company : 34000680566995C8358 : Công ty TNHH Kaitashi Group
+Got here
+Went 1
+Went 1
+Went 1
++84912126127
+Got to before for loop
+In loop 0
+Person Account : 340006808988A515785 : Bùi Văn Hiến
+Got here
+Went 1
++84962650286
+Got to before for loop
+In loop 0
+Person Account : 3400068118603E6241B : Đinh Thành Đạt
+In loop 1
+Company : 34000686549129BCC6C : Hộ Kinh Doanh Đinh Thành Đạt
+Got here
+Went 1
+Went 1
++84913711996
+Got to before for loop
+In loop 0
+Person Account : 340007045088B291166 : Lê Xuân Đức
+In loop 1
+Person Account : 34000590947320EDF5C : Lê Thị Hà Thanh
+Got here
+Went 1
+Went 1
++84988387869
+Got to before for loop
+In loop 0
+Person Account : 340006897399761D19A : Vũ Minh Trí
+Got here
+Went 1
++84974718786
+Got to before for loop
+In loop 0
+Person Account : 340006915896D27FC1E : Nguyễn Ngọc Lương
+Got here
+Went 1
++84243259527
+Got error here, can't find the phone number: +84243259527
++84989329205
+Got to before for loop
+In loop 0
+Person Account : 340006955939CA28970 : Nguyen Tri Cong
+Got here
+Went 1
++84942115775
+Got to before for loop
+In loop 0
+Person Account Soft Deleted : 3000149738430F0481C : Nguyễn Trung Lâm - Lê Hạnh Duyên
+In loop 1
+Person Account : 3000149738430F0481C : Nguyễn Trung Lâm
+In loop 2
+Company : 300011740134F54099F : Công Ty Cổ Phần Ahcom
+In loop 3
+Person Account : 300011702268DDD26CB : Nam
+Got here
+Went 1
+Went 2
+Went 3
+Went 5
+Went 3
+Went 5
+Went 6
+Went 3
+Went 5
+Went 3
+Went 5
+Detected Soft Deleted Account
+Went 1
+Went 1
+Went 1
+IA000073290
+IA000074132
++84963250456
+Got to before for loop
+In loop 0
+Person Account : 3400070678566F3B1FD : Nguyễn Thị Hằng
+Got here
+Went 1
++84904000268
+Got to before for loop
+In loop 0
+Person Account : 340007073412249F289 : Lưu Thị Mai Anh
+Got here
+Went 1
++84984850651
+Got to before for loop
+In loop 0
+Person Account : 3400070873586153F63 : Lê Bá Khánh Linh
+Got here
+Went 1
++84987288932
+Got to before for loop
+In loop 0
+Person Account : 30001164882134E2958 : Doãn Công Tùng
+Got here
+Went 1
++84911162226
+Got to before for loop
+In loop 0
+Person Account : 3400070135333E7248F : Đào Chí Hiệp
+Got here
+Went 1
+947291234 do
+Got to before for loop
+In loop 0
+Person Account : 3000115858419EA133E : Do Quang Vinh
+Got here
+Went 1
++84916580888
+Got to before for loop
+In loop 0
+Person Account : 3400072476854FFE0E9 : Vũ Lan Sinh
+In loop 1
+Company : 3400079290178B0C3D0 : Công ty TNHH Hương Việt Sinh
+Got here
+Went 1
+Went 1
++84971602328
+Got to before for loop
+In loop 0
+Person Account : 3400072729920DA6890 : Trương Tuấn Anh
+Got here
+Went 1
++84393909393
+Got to before for loop
+In loop 0
+Company : 340007314025FCCC49F : Công Ty TNHH Khoáng Sản Minh Hưng
+In loop 1
+Company : 340008554152C1987C1 : Công Ty TNHH Khoáng Sản Minh Hưng
+In loop 2
+Person Account : 3400073140170BFB7F3 : Dương Bảo Hưng
+In loop 3
+Person Account : 3400085541257F9C214 : Lương Tuyết Hạnh
+Got here
+Went 1
+Went 1
+Went 1
+Went 1
++84945763399
+Got to before for loop
+In loop 0
+Person Account : 3400074326483A6C1FC : Phạm Thị Thương
+In loop 1
+Company : 340007432659AAA833D : Công ty Luật TNHH Một thành viên Vici
+Got here
+Went 1
+Went 1
++84989965676
+Got to before for loop
+In loop 0
+Person Account : 340009911027CDECC24 : Nguyễn Quang Vinh
+In loop 1
+Person Account : 3400074928119BBB091 : Nguyễn Quang Vinh
+In loop 2
+Person Account : 3000116640167663DCD : Nguyễn Thị Đinh Hương
+Got here
+Went 1
+Went 1
+Went 1
++84332858888
+Got to before for loop
+In loop 0
+Person Account : 340007523634582452A : Cao Quốc Công
+Got here
+Went 1
++84354200495
+Got to before for loop
+In loop 0
+Person Account : 340007533971DD80FBC : Nguyễn Ngọc Tú
+Got here
+Went 1
++84912301942
+Got to before for loop
+In loop 0
+Person Account : 3400077144436DAAE9E : Nguyễn Thị Thanh Loan
+In loop 1
+Person Account : 3000153744341DCD557 : yến nhi
+Got here
+Went 1
+Went 1
++84947411125
+Got to before for loop
+In loop 0
+Person Account : 3400058207145C61422 : Nguyễn Văn Hướng
+Got here
+Went 1
++84384669222
+Got to before for loop
+In loop 0
+Person Account : 3400083375140A032BF : Đào Như Quyến
+Got here
+Went 1
++84975551818
+Got to before for loop
+In loop 0
+Person Account : 300011666565964E9EC : Đinh Quang Cương
+In loop 1
+Company : 34000853547686FFB2D : Công ty TNHH Gỗ Quốc gia
+Got here
+Went 1
+Went 1
++84978308541
+Got to before for loop
+In loop 0
+Person Account : 340008635016EF9F72E : Lê Thị Ni Na
+Got here
+Went 1
++84989982308
+Got to before for loop
+In loop 0
+Person Account : 340008899095AD0B98C : Vũ Gia Chín
+Got here
+Went 1
++84852822345
+Got to before for loop
+In loop 0
+Person Account : 3400089188300E3461F : Nguyễn Ngọc Minh
+Got here
+Went 1
++84799971995
+Got to before for loop
+In loop 0
+Person Account : 340009084046E8F7E6B : Nguyễn Thị Nga
+Got here
+Went 1
++84936067576
+Got to before for loop
+In loop 0
+Person Account : 34000909472677EE146 : Nguyễn Đức Thắng
+Got here
+Went 1
++84948622592
+Got to before for loop
+In loop 0
+Company : 34000927460239AC77D : Công ty TNHH Phú Vinh Vĩnh Phúc
+In loop 1
+Person Account : 3400092745845317719 : Phạm Quang Vinh
+In loop 2
+Person Account : 340004773581A5ACCCF : Bùi Hoàng Mai
+In loop 3
+Person Account : 3400082348507AB2931 : Đinh Thị Thu Trang
+Got here
+Went 1
+Went 1
+Went 1
+Went 1
++84973728888
+Got to before for loop
+In loop 0
+Company : 340009401307E1C95B3 : Công Ty CP TVĐT Xây Dựng Công Trình Hồng Hà
+In loop 1
+Person Account : 340009401301F55BAAB : Nguyễn Văn Thụ
+In loop 2
+Person Account : 3400094468060684E5B : Bùi Thanh Tùng
+Got here
+Went 1
+Went 1
+Went 1
++84839727878
+Got to before for loop
+In loop 0
+Person Account : 340009497706887F8BE : Nguyễn Sơn
+In loop 1
+Person Account : 34000945900659BE36D : Nguyễn Đăng
+Got here
+Went 1
+Went 1

@@ -1,0 +1,78 @@
++84913107107
+Person Account : 3000116074459E10EC7 : Phạm Đức Cường
++84903808605
+Person Account : 30001160754284B987F : Nguyễn Thành Lộc
+Company : 300011727779F94A097 : Dntn Chế Biến Bột Cá Phúc Lộc
++84902300532
+Person Account : 30001160800031F0940 : Phạm Minh Tuấn
+Person Account Soft Deleted : 30001160800031F0940 : Phạm Minh Tuấn
+Detected Soft Deleted Account
+IH000015165
+IH000086467
++84903675617
+Company : 3000135515261379E45 : Công Ty Cổ Phần Dịch Vụ Ô Tô Hàng Xanh
+Person Account : 300014247081690C217 : Trần Quốc Hải
+Person Account Soft Deleted : 340004424817215B175 : Trần Quốc Hải
+Company : 300011729028FDF3B36 : Cty Tnhh Thiết Bị Bếp Minh Trần
+Person Account Soft Deleted : 300011614102B3A7460 : Trần Quốc Hải
+Detected Soft Deleted Account
+Detected Soft Deleted Account
++84778881848
+Person Account : 3000116092989B5FDDA : Phong
+Person Account Soft Deleted : 3000116092989B5FDDA : Phong
+Detected Soft Deleted Account
+IH000016936
+IH000033695
+Found right dealer
++84932755559
+Person Account : 300011609326BB1CF77 : Phạm Quang Xuân
+Company : 3400046277819CE931F : Công Ty TNHH Tòa Nhà Phát Lộc Long Thành
+Person Account : 300011678596E95919C : Xuân
++84939087123
+Company : 300011728119AF96959 : Lê Xuân Cát Dung
+Person Account : 30001160938630F09D4 : Trần Khải Minh
+Person Account : 3000116644648067F68 : Lê Xuân Cát Dung
+Person Account : 340006565904DC9DC20 : Nguyễn Minh
++84907903888
+Person Account : 30001160969705130A5 : Nguyễn Anh Huy
++84917513879
+Person Account : 3000116099497171523 : Phạm Trung Kiên
++84908412169
+Person Account : 300013868432A7D25DF : Phạm Thành Nhân
+Person Account : 300014186639078BEF6 : Phạm Thành Nhân
+Person Account : 300011701050A60C050 : Trần Thành Nhân
+Person Account : 30001161015991A48DD : Nhân
++84944316789
+Person Account : 3000116102638BE554A : Trần Như Khoa
++84937551119
+Person Account : 300011611103E6052A7 : Dương Hữu Thắng
+Company Soft Deleted : 30001172838759CFEDE : Công Ty Tnhh Tm Dv Giao Nhận Vt Long Phú
+Company : 30001172838759CFEDE : Công Ty Tnhh Tm Dv Giao Nhận Vt Long Phú
+Person Account Soft Deleted : 300011611103E6052A7 : Dương Hữu Thắng
+Detected Soft Deleted Account
+IH000019160
++84908838198
+Person Account : 30001161113360D9296 : Nguyễn Thị Thu Sang
+Person Account Soft Deleted : 30001161113360D9296 : Nguyễn Thị Thu Sang
+Detected Soft Deleted Account
+IH000019201
+Found right dealer
++84977777072
+Person Account : 300014834371AFC7ADC : Tô Quốc Duy
+Company Soft Deleted : 3400043699570D97D04 : Công ty TNHH Đầu tư và phát triển thương mại Quốc Duy Gia Lai
+Company : 34000443974773E198C : Công ty TNHH TM DV DL Đại Kim
+Company : 300014834407D9E4420 : Công ty TNHH DV VT Vũ Văn Ngà
+Person Account Soft Deleted : 300011611254D579ADD : Tô Quốc Duy
+Detected Soft Deleted Account
++84917436960
+Person Account Soft Deleted : 3000116114711E58F7A : Nguyễn Văn Thúy
+Person Account : 3000116065128AA0534 : Nguyễn Hoàng Tuấn
+Detected Soft Deleted Account
++84946566789
+Person Account : 3000116169155F0F733 : Hoàng Thu Anh
+Person Account : 300011612007D6EF798 : Nguyễn Bá Hùng
+Person Account : 30001161660989640EB : Nguyễn Bá Nam
+Person Account : 3000117012283710478 : Nguyễn Văn Nhã
++84968686888
+Person Account : 300014203824141D276 : Trần Trần Đại Nghĩa
+Person Account : 300011692979102992F : Nguyễn Mạnh Tuấn
